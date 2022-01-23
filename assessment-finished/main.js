@@ -7,7 +7,7 @@ function randomValueFromArray(array){
   return array[random];
 }
 
-const storyText = ':insertx:にフラれたBobを慰めようとした:inserty:。「Bob、人間は顔じゃないからな」と慰めようとしたのを、:inserty:「Bobの顔は人間じゃないからな」と言ってしまった。';
+const storyText = ':insertx:にフラれたBobを慰めようとした:inserty:。Bob、人間は顔じゃないからなと慰めようとしたのを、:inserty:Bobの顔は人間じゃないからなと言ってしまった。';
 const insertX = ['津田くん', '梅雄くん', '小平くん'];
 const insertY = ['マイク', 'ミキ', 'ケン'];
 
